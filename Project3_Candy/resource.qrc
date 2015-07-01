@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/blue.png</file>
+        <file>icon/green.png</file>
+        <file>icon/orange.png</file>
+        <file>icon/purple.png</file>
+        <file>icon/red.png</file>
+        <file>icon/yellow.png</file>
+        <file>icon/blue_click.png</file>
+        <file>icon/green_click.png</file>
+        <file>icon/orange_click.png</file>
+        <file>icon/purple_click.png</file>
+        <file>icon/red_click.png</file>
+        <file>icon/yellow_click.png</file>
+        <file>icon/blue_2.png</file>
+        <file>icon/Choco.png</file>
+        <file>icon/green_2.png</file>
+        <file>icon/green_3.png</file>
+        <file>icon/orange_2.png</file>
+        <file>icon/orange_3.png</file>
+        <file>icon/purple_2.png</file>
+        <file>icon/purple_3.png</file>
+        <file>icon/red_3.png</file>
+        <file>icon/yellow_2.png</file>
+        <file>icon/yellow_3.png</file>
+        <file>icon/nothing.png</file>
+        <file>icon/Choco_click.png</file>
+        <file>icon/blue_2_click.png</file>
+        <file>icon/blue_3.png</file>
+        <file>icon/blue_3_click.png</file>
+        <file>icon/green_2_click.png</file>
+        <file>icon/green_3_click.png</file>
+        <file>icon/orange_2_click.png</file>
+        <file>icon/orange_3_click.png</file>
+        <file>icon/purple_2_click.png</file>
+        <file>icon/purple_3_click.png</file>
+        <file>icon/red_2.png</file>
+        <file>icon/red_2_click.png</file>
+        <file>icon/red_3_click.png</file>
+        <file>icon/yellow_2_click.png</file>
+        <file>icon/yellow_3_click.png</file>
+        <file>icon/star.jpg</file>
+        <file>icon/x.png</file>
+    </qresource>
+</RCC>
